@@ -1,0 +1,12 @@
+F:\ASP.NET\WebApiCall\WebApiCall\bin\Debug\net6.0\WebApiCall.deps.json
+F:\ASP.NET\WebApiCall\WebApiCall\bin\Debug\net6.0\WebApiCall.dll
+F:\ASP.NET\WebApiCall\WebApiCall\bin\Debug\net6.0\WebApiCall.pdb
+F:\ASP.NET\WebApiCall\WebApiCall\obj\Debug\net6.0\WebApiCall.csproj.AssemblyReference.cache
+F:\ASP.NET\WebApiCall\WebApiCall\obj\Debug\net6.0\WebApiCall.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET\WebApiCall\WebApiCall\obj\Debug\net6.0\WebApiCall.AssemblyInfoInputs.cache
+F:\ASP.NET\WebApiCall\WebApiCall\obj\Debug\net6.0\WebApiCall.AssemblyInfo.cs
+F:\ASP.NET\WebApiCall\WebApiCall\obj\Debug\net6.0\WebApiCall.csproj.CoreCompileInputs.cache
+F:\ASP.NET\WebApiCall\WebApiCall\obj\Debug\net6.0\WebApiCall.dll
+F:\ASP.NET\WebApiCall\WebApiCall\obj\Debug\net6.0\refint\WebApiCall.dll
+F:\ASP.NET\WebApiCall\WebApiCall\obj\Debug\net6.0\WebApiCall.pdb
+F:\ASP.NET\WebApiCall\WebApiCall\obj\Debug\net6.0\ref\WebApiCall.dll

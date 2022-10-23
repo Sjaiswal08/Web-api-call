@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fXwA/+IP4QjZmY2djyHpGw1V5hBUfq6/sg87wxS/ZbjxxTA23vXzzg8hApJRrYHsn32evuz6Vug1iieL0hco1w==",
+  "success": true,
+  "projectFilePath": "F:\\ASP.NET\\WebApiCall\\WebApiCall\\WebApiCall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaisw\\.nuget\\packages\\octokit\\4.0.0\\octokit.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Test/1.0.0": {
+        "dependencies": {
+          "WebApiCall": "1.0.0"
+        },
+        "runtime": {
+          "Test.dll": {}
+        }
+      },
+      "Octokit/4.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Octokit.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "WebApiCall/1.0.0": {
+        "dependencies": {
+          "Octokit": "4.0.0"
+        },
+        "runtime": {
+          "WebApiCall.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Octokit/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e9f7M4rmhoezkGrNLlt/RjX5IeCOh8quW0e4H4YGG2QBK7Z6MVnUr094NNu3LstVZtB08ddLIWTQYZNpEsA9ZQ==",
+      "path": "octokit/4.0.0",
+      "hashPath": "octokit.4.0.0.nupkg.sha512"
+    },
+    "WebApiCall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
